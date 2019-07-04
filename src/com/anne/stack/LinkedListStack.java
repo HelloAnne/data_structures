@@ -1,6 +1,6 @@
-package com.anne.linkedlist;
+package com.anne.stack;
 
-import com.anne.stack.Stack;
+import com.anne.linkedlist.LinkedList;
 
 /**
  * Author: Anne Zhang
